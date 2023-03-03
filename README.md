@@ -61,6 +61,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aSagCoder&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!---To Do: Publish this once articles are written and published online on GFG and Medium Blogs.
