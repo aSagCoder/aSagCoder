@@ -29,8 +29,9 @@
 :telescope: Jack of many trades and a connoisseur of memes and pop-culture references.<br>
 📚 I am currently interested in reading novels, writing stories, drawing human anatomy, playing games and watching anime in my free time.<br>
 🌱You can find me lurking and occassionaly solving problems on <a href="https://leetcode.com/aSagCoder/">LeetCode</a>, <a href="https://auth.geeksforgeeks.org/user/kuhurajbhatnagar/">GeeksForGeeks</a> and <a href="https://www.hackerrank.com/Kuhu_Bhatnagar">HackerRank</a>.<br>
-⚡My Current Goals include contributing to Open Source Projects, publishing my blog, working on helpful content for students and devs alike.<br>
-💻 <h2>How To Reach Me:</h2>  
+⚡My  Goals include contributing to Open Source Projects, publishing my blog, working on helpful content for students and devs alike.<br>
+💻 Currently busy with learning about Artificial Intelligence, DSA and Competitive Programming. 
+<h2>How To Reach Me:</h2>  
 <div align="center">
 <a href="https://www.linkedin.com/in/kuhu-bhatnagar/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a href="https://twitter.com/aSagCoder"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -72,26 +73,16 @@
 
 ---
 ### :fire: Current Stats :
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aSagCoder&theme=dark&background=000000)](https://git.io/streak-stats)
 
+</div> 
+
 ---
-<!--START_SECTION:waka-->
+### 💮 Profile Info: 
+<div align="center">
+  
+![aSagCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSagCoder&show_icons=true&theme=cobalt)
 
-```txt
-From: 01 March 2023 - To: 16 July 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<!---To Do: Publish this once articles are written and published online on GFG and Medium Blogs.
----(enter key - press after dotted line here)### :writing_hand: Blog Posts :
---->
-
-<!---
-aSagCoder/aSagCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
