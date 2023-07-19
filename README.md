@@ -86,3 +86,11 @@
 ![aSagCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=aSagCoder&show_icons=true&theme=cobalt)
 
 </div>
+
+---
+### 👓 Top Languages:
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aSagCoder&layout=donut)](https://github.com/aSagCoder/github-readme-stats)
+
+</div>
