@@ -94,3 +94,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aSagCoder&layout=donut)](https://github.com/aSagCoder/github-readme-stats)
 
 </div>
+
+---
+### 🏆My Badges:
+[![An image of @asagcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asagcoder)](https://holopin.io/@asagcoder)
+
