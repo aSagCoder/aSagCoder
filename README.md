@@ -1,28 +1,8 @@
-
-
-<div id="header" align="center">
-  <img src="https://gifdb.com/images/thumbnail/neon-is-online-in-matrix-meme-awpr84i7jvvrphwt.gif" width="600"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kuhu-bhatnagar/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCTZH0-Ej-mQZVvgpa4K81BA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/aSagCoder">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=aSagCoder&style=flat-square&color=blue" alt=""/>
-</div>
-
----
 <div align="center">
   <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif"/>
 </div>
 
-### :woman_technologist: About Me :
+### About Me :
 
 📖 I am Comp Sci student from India with a penchant for everything that has to do with data, web and gaming. <br>
 🖊️ I usually code, study and occassionaly write blogs about what I am learning in (and outside of) my classes. <br>
